@@ -1,0 +1,6 @@
+{
+  "name": "Egypt World Cup Encyclopedia Database",
+  "description": "Complete SQLite database layer, schema, seed scripts, and Flutter sqflite integration classes for Egypt at the FIFA World Cups (1934, 1990, 2018).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
